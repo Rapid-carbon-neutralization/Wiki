@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # 设置ACCESS_TOKEN
@@ -71,6 +71,8 @@ sidebar_position: 3
 ![](_images/NewRepositorySecret.png)
 
 * `Name`填写`ACCESS_TOKEN`, `Secret`填写你刚才复制的东西
+
+一定要填写 `ACCESS_TOKEN` 因为 build.yml里写的就是这个名
 
 ![](_images/ACCESS_TOKEN.png)
 
