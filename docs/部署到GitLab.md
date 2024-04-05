@@ -4,9 +4,9 @@ sidebar_position: 3
 
 在gitlab那边导入这个仓库,或者你把这个仓库下载下来,传gitlab上
 
-[.gitlab-ci.yml](/.gitlab-ci.yml) 驿站帮你写好了awa
+.gitlab-ci.yml 驿站帮你写好了awa
 
-然后把 [docusaurus.config.js](/docusaurus.config.js) 里的东西改下
+然后把 docusaurus.config.js 里的东西改下
 
 :::tip
 
