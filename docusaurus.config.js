@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wiki-Template',
-  tagline: 'Docusaurus 插件文档模板',
+  title: 'Wiki',
+  tagline: 'Docusaurus 文档',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://postyizhan.github.io',
+  url: 'https://rapid-carbon-neutralization.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Template/',
+  baseUrl: '/Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'postyizhan', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Template', // Usually your repo name.
+  organizationName: 'Rapid-carbon-neutralization', // Usually your GitHub org/user name.
+  projectName: 'Wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/postyizhan/Wiki-Template/blob/main'
+            'https://github.com/Rapid-carbon-neutralization/blob/main'
         },
         blog: false,
         theme: {
@@ -59,7 +59,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki-Template',
+        title: 'Wiki',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://qm.qq.com/q/dENGavSflK',
+                href: '点击链接加入群聊【方块落日酒馆「BST」】：https://qm.qq.com/q/q6737nG9CE',
               },
             ],
           },
@@ -115,13 +115,13 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/postyizhan/Wiki-Template',
+                href: 'https://github.com/Rapid-carbon-neutralization/Wiki',
               },
             ],
           },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Rapid-carbon-neutralization, All Rights Reserved.`,
       },
       // 深浅主题
       prism: {
